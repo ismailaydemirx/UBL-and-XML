@@ -1,0 +1,16 @@
+<faturalar>
+  <fatura id="1">
+    <aliciverici>
+      <ad>İsmail Aydemir</ad>
+      <vergiNo>1234567890</vergiNo>
+    </aliciverici>
+    <tutar>500.00</tutar>
+  </fatura>
+  <fatura id="2">
+    <aliciverici>
+      <ad>Ahmet Yılmaz</ad>
+      <vergiNo>9876543210</vergiNo>
+    </aliciverici>
+    <tutar>850.75</tutar>
+  </fatura>
+</faturalar>

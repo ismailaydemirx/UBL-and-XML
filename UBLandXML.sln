@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturaXMLTest", "FaturaXMLTest\FaturaXMLTest.csproj", "{5A20FCC2-0E55-4D55-9F58-E029EC84280D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A20FCC2-0E55-4D55-9F58-E029EC84280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A20FCC2-0E55-4D55-9F58-E029EC84280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A20FCC2-0E55-4D55-9F58-E029EC84280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A20FCC2-0E55-4D55-9F58-E029EC84280D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E4E3A0-DF6B-4A35-AD83-C740D6C5ED13}
+	EndGlobalSection
+EndGlobal

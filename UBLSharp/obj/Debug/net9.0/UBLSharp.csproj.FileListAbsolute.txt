@@ -1,0 +1,14 @@
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\bin\Debug\net9.0\UBLSharp.exe
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\bin\Debug\net9.0\UBLSharp.deps.json
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\bin\Debug\net9.0\UBLSharp.runtimeconfig.json
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\bin\Debug\net9.0\UBLSharp.dll
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\bin\Debug\net9.0\UBLSharp.pdb
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.AssemblyInfoInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.AssemblyInfo.cs
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.csproj.CoreCompileInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.dll
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\refint\UBLSharp.dll
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.pdb
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharp.genruntimeconfig.cache
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\ref\UBLSharp.dll

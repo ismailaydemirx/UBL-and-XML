@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UBLSharpTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfc3866e3df14316089111e983ca275ef2acf0e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030f79040f2b13c8a97520364636aff2b92174e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("UBLSharpTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UBLSharpTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

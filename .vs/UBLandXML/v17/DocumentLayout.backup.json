@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Github Desktop\\Repositories\\UBLandXML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}|UBLSharp\\UBLSharp.csproj|d:\\github desktop\\repositories\\ublandxml\\ublsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}|UBLSharp\\UBLSharp.csproj|solutionrelative:ublsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}|EnvelopTest\\EnvelopTest.csproj|d:\\github desktop\\repositories\\ublandxml\\enveloptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}|EnvelopTest\\EnvelopTest.csproj|solutionrelative:enveloptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}|EnvelopTest\\EnvelopTest.csproj|d:\\github desktop\\repositories\\ublandxml\\enveloptest\\common\\ublbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}|EnvelopTest\\EnvelopTest.csproj|solutionrelative:enveloptest\\common\\ublbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +50,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UblBase.cs",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\UBLandXML\\EnvelopTest\\Common\\UblBase.cs",
+              "RelativeDocumentMoniker": "EnvelopTest\\Common\\UblBase.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\UBLandXML\\EnvelopTest\\Common\\UblBase.cs",
+              "RelativeToolTip": "EnvelopTest\\Common\\UblBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:23:55.483Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\UBLandXML\\UBLSharp\\Program.cs",
-              "RelativeDocumentMoniker": "UBLSharp\\Program.cs",
-              "ToolTip": "D:\\Github Desktop\\Repositories\\UBLandXML\\UBLSharp\\Program.cs",
-              "RelativeToolTip": "UBLSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\UBLandXML\\EnvelopTest\\Program.cs",
+              "RelativeDocumentMoniker": "EnvelopTest\\Program.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\UBLandXML\\EnvelopTest\\Program.cs*",
+              "RelativeToolTip": "EnvelopTest\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:48:37.7Z",
+              "WhenOpened": "2025-05-15T20:26:22.819Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.AssemblyInfoInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.AssemblyInfo.cs
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.csproj.CoreCompileInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.sourcelink.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\EnvelopTest.exe
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\EnvelopTest.deps.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\EnvelopTest.runtimeconfig.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\EnvelopTest.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\EnvelopTest.pdb
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\refint\EnvelopTest.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.pdb
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\EnvelopTest.genruntimeconfig.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\ref\EnvelopTest.dll

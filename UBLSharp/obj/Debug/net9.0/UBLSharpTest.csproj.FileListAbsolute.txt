@@ -17,3 +17,4 @@ D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\refint\UBLSha
 D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharpTest.pdb
 D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharpTest.genruntimeconfig.cache
 D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\ref\UBLSharpTest.dll
+D:\Github Desktop\Repositories\UBLandXML\UBLSharp\obj\Debug\net9.0\UBLSharpTest.sourcelink.json

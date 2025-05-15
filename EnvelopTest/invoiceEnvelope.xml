@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InvoiceEnvelope xmlns="urn:oasis:names:specification:ubl:schema:xsd:InvoiceEnvelope-2"
+                 xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+                 xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2">
+  <cbc:UUID>zarf-uuid-0001</cbc:UUID>
+  <cbc:IssueDate>2025-05-15</cbc:IssueDate>
+  <cac:SenderParty>
+    <cac:Party>
+      <cac:PartyName>
+        <cbc:Name>Firma A</cbc:Name>
+      </cac:PartyName>
+    </cac:Party>
+  </cac:SenderParty>
+  <cac:ReceiverParty>
+    <cac:Party>
+      <cac:PartyName>
+        <cbc:Name>Müşteri B</cbc:Name>
+      </cac:PartyName>
+    </cac:Party>
+  </cac:ReceiverParty>
+
+  <cac:InvoiceDocumentReference>
+    <cbc:ID>INV-001</cbc:ID>
+    <cbc:UUID>fatura-uuid-001</cbc:UUID>
+    <cbc:URI>Invoices/invoice1.xml</cbc:URI>
+  </cac:InvoiceDocumentReference>
+
+  <cac:InvoiceDocumentReference>
+    <cbc:ID>INV-002</cbc:ID>
+    <cbc:UUID>fatura-uuid-002</cbc:UUID>
+    <cbc:URI>Invoices/invoice2.xml</cbc:URI>
+  </cac:InvoiceDocumentReference>
+</InvoiceEnvelope>

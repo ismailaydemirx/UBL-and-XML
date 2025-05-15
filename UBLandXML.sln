@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturaXMLTest", "FaturaXMLT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLSharpTest", "UBLSharp\UBLSharpTest.csproj", "{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UblInvoiceParser", "EnvelopTest\UblInvoiceParser.csproj", "{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4D4C43-95BA-4CCD-BFAC-9332A977B065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD62DBF-AFB5-4E96-83B2-7AEF58BA800A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

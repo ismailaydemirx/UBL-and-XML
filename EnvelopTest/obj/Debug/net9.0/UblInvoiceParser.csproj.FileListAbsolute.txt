@@ -1,0 +1,15 @@
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\UblInvoiceParser.exe
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\UblInvoiceParser.deps.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\UblInvoiceParser.runtimeconfig.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\UblInvoiceParser.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\bin\Debug\net9.0\UblInvoiceParser.pdb
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.AssemblyInfoInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.AssemblyInfo.cs
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.csproj.CoreCompileInputs.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.sourcelink.json
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\refint\UblInvoiceParser.dll
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.pdb
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\UblInvoiceParser.genruntimeconfig.cache
+D:\Github Desktop\Repositories\UBLandXML\EnvelopTest\obj\Debug\net9.0\ref\UblInvoiceParser.dll
